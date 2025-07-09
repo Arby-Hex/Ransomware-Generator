@@ -29,6 +29,6 @@ pip install colorama
 ```
 > Jalankan Tool Dengan Command Ini
 ```
-python ransgenerat.pyc
+python ransgenerat.py
 ```
 
